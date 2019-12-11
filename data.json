@@ -1,1 +1,24 @@
-{"name": "Lalit", "age": 19, "city": "Jaipur", "college":"IITB", "phone":"9887199799", "email":"lalitpsaini@gmail.com"}
+{
+    "First Name": "Lalit",
+    "Last Name":"Saini",
+    "Contact No.":"987654321",
+    "Email ID":"lalitpsaini@gmail.com",
+    "Additional ids":
+        {"Email ID 2":"180070030@iitb.ac.in"}
+    ,
+    "Address" :{
+            "streetAddress": "126",
+            "streetAddress2": "125",
+            "city": "San Jone",
+            "state": "CA",
+            "zipCode": "394221",
+            "Country":"USA"
+     },
+    
+    "Language(s)":["Hindi","English","Marathi"],
+    "Availability": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+    "Date of Birth":"21/08/2000",
+    "Employment status":
+    ["Employed"," Unemployed","Partly em","Self-emp"]
+    }
+    
