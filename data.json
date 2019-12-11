@@ -4,7 +4,7 @@
     "Contact No.":"987654321",
     "Email ID":"lalitpsaini@gmail.com",
     "Additional ids":
-        {"Email ID 2":"180070030@iitb.ac.in"}
+        ["180070030@iitb.ac.in"]
     ,
     "Address" :{
             "streetAddress": "126",
