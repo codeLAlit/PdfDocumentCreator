@@ -1,0 +1,54 @@
+{
+"personal_info":{
+	"itc":"100%", 
+	"public_libality":"$10000", 
+	"abn":"Abn", 
+	"products_liability":"$10000", 
+	"name_insured":"Lalit Saini", 
+	"company_info":"This is our company", 
+	"excess":"Some Text", 
+	"client_name": "Lalit Saini", 
+	"creation_date": "01/01/2020", 
+	"period_from":"01/01/2020", 
+	"fax":"12346", 
+	"telephone":"12346", 
+	"mobile":"123456789", 
+	"policy_number":"123456", 
+	"ref_no":"0458", 
+	"period_to":"01/01/2021", 
+	"products":"Motor Bike", 
+	"organisation":"JLT India", 
+	"business":"Business", 
+	"situation_name":"Some text", 
+	"ins_type": "Motor Insurance", 
+	"address":"1234 near park", 
+	"email":"lalitpsaini@gmail.com"
+	
+},
+"vehicles":[
+	{
+		"vehicle_no":"Vehicle 1",
+		"reg_no":"RJ14",
+		"purpose":"Commercial",
+		"cover_level":"Comprehensive",
+		"settlement_radius":"0-250Km",
+		"no_claim_bonus":"30%",
+		"settlement_basis":"$250",
+		"under_25":"No",
+		"vehicle_excess":"$2500"
+		
+	},
+	{
+		"vehicle_no":"Vehicle 1",
+		"reg_no":"RJ14",
+		"purpose":"Commercial",
+		"cover_level":"Comprehensive",
+		"settlement_radius":"0-250Km",
+		"no_claim_bonus":"30%",
+		"settlement_basis":"$250",
+		"under_25":"No",
+		"vehicle_excess":"$2500"
+		
+	}
+]
+}

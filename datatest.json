@@ -1,0 +1,37 @@
+{"People":
+[
+    {
+        "First Name": "Aadesh",
+        "Last Name":"Madnaik",
+        "Contact No.":"987654321",
+        "Email ID":"lalitpsaini@gmail.com",
+        "Additional IDs":"exmple@gmail.com",
+        "Address line 1":"Gyan Vihar",
+        "Address line 2":"Manyawas",
+        "City":"Jaipur",
+        "State":"Rajasthan",
+        "Zipcode":"302020",
+        "Country":"India",
+        "Availability":"Monday",
+        "Language(s)":"English",
+        "Employment status":"Unemployed"
+        
+    },
+    {
+        "First Name": "Lalit",
+        "Last Name":"Saini",
+        "Contact No.":"987654321",
+        "Email ID":"lalitpsaini@gmail.com",
+        "Additional IDs":"exmple@gmail.com",
+        "Address line 1":"Abc",
+        "Address line 2":"CDef",
+        "City":"Jaipur",
+        "State":"Rajasthan",
+        "Zipcode":"4000076",
+        "Country":"India",
+        "Availability":"Monday",
+        "Language(s)":"English",
+        "Employment status":"Unemployed"
+    }
+]
+}
