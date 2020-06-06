@@ -28,7 +28,7 @@ def mailPdf(file, clientEmail):
 	msg.attach(p) 
 	s = smtplib.SMTP('smtp.gmail.com', 587) 
 	s.starttls() 
-	s.login(fromaddr, "jltindia-2019") 
+	s.login(fromaddr, "password here") 
 	text = msg.as_string() 
 	s.sendmail(fromaddr, toaddr, text)
 	s.quit() 
